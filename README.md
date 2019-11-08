@@ -1,6 +1,6 @@
 # Undo-Logging-and-Recovery
-##Part 1: UNDO Logging
-###Task: UNDO Logs
+## Part 1: UNDO Logging
+### Task: UNDO Logs
 Write UNDO logs for the set of transactions. In addition, after every log record also print the
 values of the variables in both the main memory and the disk corresponding to the state
 after the current log record. The variables should be in Lexicographic order.
